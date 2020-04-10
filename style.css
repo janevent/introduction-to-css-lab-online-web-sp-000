@@ -19,10 +19,9 @@ div {
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
-.selector {
-  margin:auto;
-}
+
 .perspective-questions {
   /* Your code here! */
+  margin:auto;
   font-style:italic;
 }
